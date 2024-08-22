@@ -1,7 +1,7 @@
 # Robotics-team-4
 
-## Team Name: 
+## Team Name: Skyline Robotics Team
 
-## Robot Name:
+## Robot Name: Screwby
 
 ## This Robot is a mobile Competition bot 
