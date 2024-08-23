@@ -1,4 +1,4 @@
-# Robotics-team-4
+# Skyline Robotics Team
 
 ## Team Name: Skyline Robotics Team
 
