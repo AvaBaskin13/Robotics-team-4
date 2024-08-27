@@ -4,3 +4,5 @@
 [IRJET - *Design and Fabrication of Ladder Climbing Load Carrying Robot*](https://www.irjet.net/archives/V8/i3/IRJET-V8I3465.pdf)
 
 [Applied Mechanics and Materials - *Design and Development of Ladder Climbing Robot*](https://www.researchgate.net/publication/342306550_Design_and_Development_of_Ladder_Climbing_Robot)
+
+[AACC MEC 120 Ladder Climbing Robot Final Project](https://www.youtube.com/watch?app=desktop&v=QRy3hn59oqA)
