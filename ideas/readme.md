@@ -15,4 +15,4 @@
 
 [Ladder Climber Robot || Robotics Club || IIT Guwahati](https://www.youtube.com/watch?v=8fVQR-4HaT0)
 
-[ladder climbing lift idea](https://wiki.purduesigbots.com/hardware/lifts/other-lifts)
+[ladder climbing lift idea | elavator lift](https://wiki.purduesigbots.com/hardware/lifts/other-lifts)
