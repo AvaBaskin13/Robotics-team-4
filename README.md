@@ -29,6 +29,12 @@
 * Works closely with the programmer to understand the robot’s capabilities.
 * Provides feedback on robot performance for further improvements.
 
+#### Elizabeth | Engineer | CAD Designer
+* Designs and builds the robot's physical structure
+* Works on drivetrain, chassis, and mechanical systems
+* Creates detailed computer-aided design (CAD) models of the robot
+* Aids in the assembly of electrical systems
+
 ## Robot Name: Screwby
 
 ## This Robot is a mobile Competition bot 
