@@ -16,3 +16,5 @@
 [Ladder Climber Robot || Robotics Club || IIT Guwahati](https://www.youtube.com/watch?v=8fVQR-4HaT0)
 
 [ladder climbing lift idea | elavator lift](https://wiki.purduesigbots.com/hardware/lifts/other-lifts)
+
+Random Interesting thing that has no relevance whatsoever - [Snake Robot](https://www.youtube.com/watch?v=t5UvFkt87NE&pp=ygUZc25ha2UgbGFkZGVyIGNsaW1iaW5nIGJvdA%3D%3D)
