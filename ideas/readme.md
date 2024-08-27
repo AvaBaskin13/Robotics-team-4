@@ -1,4 +1,4 @@
-# Ladder Climbing
+## Ladder Climbing
 [UT Austin Ladder Climbing Robot](https://qual.wikis.its.utexas.edu/display/RMD/Ladder-Climbing+Robot)
 
 [IRJET - *Design and Fabrication of Ladder Climbing Load Carrying Robot*](https://www.irjet.net/archives/V8/i3/IRJET-V8I3465.pdf)
