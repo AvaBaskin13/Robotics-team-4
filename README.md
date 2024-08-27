@@ -17,7 +17,7 @@
 * works with electrical and mechanical engineering teams to ensure code functions with hardware
 * editing documentation when applicable
   
-#### Julia | Primarily Electrical Engineer | Programmer if needed
+#### Julia Strong | Primarily Electrical Engineer | Programmer if needed
 * Manages wiring, sensors, and power distribution, and electrical components.
 * Ensures that the electrical components work correctly with the mechanical parts. 
 * Troubleshoots electrical issues during testing.
