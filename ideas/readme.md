@@ -12,3 +12,5 @@
 [254 CLimbing the pyramid - FIRST FRC SVR 2013](https://www.youtube.com/watch?v=eYPNndagILM)
 
 [Westmoreland County Robot FRC Ladder Climb 2013](https://www.youtube.com/watch?v=37tQMCIqr0k)
+
+[Ladder Climber Robot || Robotics Club || IIT Guwahati](https://www.youtube.com/watch?v=8fVQR-4HaT0)
