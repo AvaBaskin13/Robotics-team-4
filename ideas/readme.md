@@ -17,4 +17,4 @@
 
 [ladder climbing lift idea | elavator lift](https://wiki.purduesigbots.com/hardware/lifts/other-lifts)
 
-Random Interesting thing that has no relevance whatsoever - [Snake Robot](https://www.youtube.com/watch?v=kN9AIQQZRw4)
+Random interesting thing that has no relevance whatsoever - [Snake Robot](https://www.youtube.com/watch?v=kN9AIQQZRw4)
