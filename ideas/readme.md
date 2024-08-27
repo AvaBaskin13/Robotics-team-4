@@ -9,7 +9,7 @@
 
 [20 point climb FRC 2013 Team 179 Hang](https://www.youtube.com/watch?v=Dzh9W9RgKVo)
 
-[254 CLimbing the pyramid - FIRST FRC SVR 2013](https://www.youtube.com/watch?v=eYPNndagILM)
+[254 Climbing the pyramid - FIRST FRC SVR 2013](https://www.youtube.com/watch?v=eYPNndagILM)
 
 [Westmoreland County Robot FRC Ladder Climb 2013](https://www.youtube.com/watch?v=37tQMCIqr0k)
 
