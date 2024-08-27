@@ -2,6 +2,14 @@
 
 ## Team Name: Skyline Robotics Team
 ### Members:
+
+#### Ava Baskin | Team Leader | Programmer | Engineer
+* facillitates communication
+* makes sure everyone is on task and meeting deadlines
+* helps code the robot
+* helps with CAD designs
+* Helps build the robot
+  
 #### Elisa Tandra | Programmer
 * writes and tests code for robot
 * implements algorithms for autonomous and manual control
