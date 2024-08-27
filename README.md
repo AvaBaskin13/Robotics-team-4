@@ -22,6 +22,13 @@
 * Ensures that the electrical components work correctly with the mechanical parts. 
 * Troubleshoots electrical issues during testing.
 * Can be familiarized with the code to help debug if needed.
+
+  #### Ryley Hemingway | Driver/Operator | Scouting Lead 
+* Operates the robot during competitions.
+* Practices regularly to improve skill and coordination.
+* Works closely with the programmer to understand the robot’s capabilities.
+* Provides feedback on robot performance for further improvements.
+
 ## Robot Name: Screwby
 
 ## This Robot is a mobile Competition bot 
