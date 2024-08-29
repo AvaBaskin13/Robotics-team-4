@@ -6,6 +6,9 @@
 
 ## This Robot is a mobile Competition bot 
 
+![Aerial view](https://mail.google.com/mail/u/0?ui=2&ik=41d8eb5ffc&attid=0.3&permmsgid=msg-f:1808747145590161786&th=1919f5f21d67417a&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ_DomDSt7M5Fe-bSE273k8sE2HG2b2nby0aJbsPk1ZvY2qTRKwD4F0ZwHMVssSDiPR2RMi9skBijFmaghA5x0MU8nBgDaelOUlenMgReqvVajjEsT1IHEX2dfg&disp=emb&realattid=1919f5e343e6800b3291)
+![Side View](https://mail.google.com/mail/u/0?ui=2&ik=41d8eb5ffc&attid=0.1&permmsgid=msg-f:1808747145590161786&th=1919f5f21d67417a&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ-wxqhzKkfPVDuaDA7geWunbLPEYFLpvxiwJI-8bHbWhvGDY5eFPqrwWOUgLsqruMq1diGOrwibbD3ZRwl7Sf_YWCx_Mbg5totEGXn4ypnfJjCIwnaqGy9xdtk&disp=emb&realattid=1919f5e55ba8b25c72e3)
+![Perspective View](https://mail.google.com/mail/u/0?ui=2&ik=41d8eb5ffc&attid=0.2&permmsgid=msg-f:1808747145590161786&th=1919f5f21d67417a&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ_yfDvsx1DTRlVaeUJvrG5bE3L8UVwUNQa2amcRWT4ncwLFDQOfSKuX6lL4xAjquG4pJyISkKDIViANdvTAemTomfvTWotmkrgcbRRG5BAitMVTLoIWOQtKPsY&disp=emb&realattid=1919f5e346ddfa5541b2)
 ### Members:
 
 #### Ava Baskin | Team Leader | Programmer | Engineer
