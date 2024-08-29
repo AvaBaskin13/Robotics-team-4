@@ -23,7 +23,7 @@
 * Troubleshoots electrical issues during testing.
 * Can be familiarized with the code to help debug if needed.
 
-  #### Ryley Hemingway | Driver/Operator | Scouting Lead 
+#### Ryley Hemingway | Driver/Operator | Scouting Lead 
 * Operates the robot during competitions.
 * Practices regularly to improve skill and coordination.
 * Works closely with the programmer to understand the robot’s capabilities.
