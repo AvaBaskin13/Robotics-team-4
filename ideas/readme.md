@@ -20,3 +20,5 @@
 Random interesting thing that has no relevance whatsoever - [Snake Robot](https://www.youtube.com/watch?v=kN9AIQQZRw4)
 
 [2 arm climbing](https://www.youtube.com/watch?v=LJV3D-uBoLs)
+
+[High stakes ring pickup](https://www.vexforum.com/t/vex-high-stakes-44252a-ri1w-robot-in-1-week/125406)
