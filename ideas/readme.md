@@ -18,3 +18,5 @@
 [ladder climbing lift idea | elavator lift](https://wiki.purduesigbots.com/hardware/lifts/other-lifts)
 
 Random interesting thing that has no relevance whatsoever - [Snake Robot](https://www.youtube.com/watch?v=kN9AIQQZRw4)
+
+[2 arm climbing](https://www.youtube.com/watch?v=LJV3D-uBoLs)
