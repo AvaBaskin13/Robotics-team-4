@@ -1,6 +1,11 @@
 # Skyline Robotics Team
 
 ## Team Name: Skyline Robotics Team
+
+## Robot Name: Screwby
+
+## This Robot is a mobile Competition bot 
+
 ### Members:
 
 #### Ava Baskin | Team Leader | Programmer | Engineer
@@ -35,6 +40,3 @@
 * Creates detailed computer-aided design (CAD) models of the robot
 * Aids in the assembly of electrical systems
 
-## Robot Name: Screwby
-
-## This Robot is a mobile Competition bot 
