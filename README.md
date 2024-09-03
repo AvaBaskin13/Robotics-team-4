@@ -6,9 +6,7 @@
 
 ## This Robot is a mobile Competition bot 
 
-![Aerial view](https://github.com/AvaBaskin13/Robotics-team-4/blob/main/images/Robot%20Aerial.jpg?raw=true)
-![Side View](https://github.com/AvaBaskin13/Robotics-team-4/blob/main/images/Robot%20Side.jpg?raw=true)
-![Perspective View](https://github.com/AvaBaskin13/Robotics-team-4/blob/main/images/Robot%20Perspective.jpg?raw=true)
+
 ### Members:
 
 #### Ava Baskin | Team Leader | Programmer | Engineer
@@ -41,5 +39,10 @@
 * Designs and builds the robot's physical structure
 * Works on drivetrain, chassis, and mechanical systems
 * Creates detailed computer-aided design (CAD) models of the robot
-* Aids in the assembly of electrical systems
+* Aids in the assembly of electrical 
+
+
+![Aerial view](https://github.com/AvaBaskin13/Robotics-team-4/blob/main/images/Robot%20Aerial.jpg?raw=true)
+![Side View](https://github.com/AvaBaskin13/Robotics-team-4/blob/main/images/Robot%20Side.jpg?raw=true)
+![Perspective View](https://github.com/AvaBaskin13/Robotics-team-4/blob/main/images/Robot%20Perspective.jpg?raw=true)
 
