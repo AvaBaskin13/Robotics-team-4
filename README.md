@@ -1,6 +1,6 @@
-# Skyline Robotics Team
+# Circuit Breakers
 
-## Team Name: Skyline Robotics Team
+## Team Name: Circuit Breakers
 
 ## Robot Name: Screwby
 
