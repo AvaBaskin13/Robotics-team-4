@@ -21,9 +21,13 @@ Random interesting thing that has no relevance whatsoever - [Snake Robot](https:
 
 [2 arm climbing](https://www.youtube.com/watch?v=LJV3D-uBoLs)
 
-[High stakes ring pickup](https://www.vexforum.com/t/vex-high-stakes-44252a-ri1w-robot-in-1-week/125406)
-
 [Lift Systems](https://kb.vex.com/hc/en-us/articles/360037388692-Building-V5-Robot-Lift-Systems)
+
+[How our Cascade Lift is Made](https://www.youtube.com/watch?v=Yta_Nk7crSI)
+
+## Rings
+
+[High stakes ring pickup](https://www.vexforum.com/t/vex-high-stakes-44252a-ri1w-robot-in-1-week/125406)
 
 ## Extra info:
 [Manual with info including dimensions](https://www.vexrobotics.com/high-stakes-manual)
