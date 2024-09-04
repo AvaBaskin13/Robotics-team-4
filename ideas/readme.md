@@ -25,6 +25,8 @@ Random interesting thing that has no relevance whatsoever - [Snake Robot](https:
 
 [How our Cascade Lift is Made](https://www.youtube.com/watch?v=Yta_Nk7crSI)
 
+[New triple lift preview](https://www.vexforum.com/t/new-triple-lift-preview/26775) - The links under this look useful
+
 ## Rings
 
 [High stakes ring pickup](https://www.vexforum.com/t/vex-high-stakes-44252a-ri1w-robot-in-1-week/125406)
