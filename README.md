@@ -46,4 +46,4 @@
 ![Side View](https://github.com/AvaBaskin13/Robotics-team-4/blob/main/images/Robot%20Side.jpg?raw=true)
 ![Perspective View](https://github.com/AvaBaskin13/Robotics-team-4/blob/main/images/Robot%20Perspective.jpg?raw=true)
 
-![Cascade Lift Prototype](https://github.com/AvaBaskin13/Robotics-team-4/blob/main/images/cascade%20lift%20prototype.png?raw=true)
+![Cascade Lift Prototype]()
