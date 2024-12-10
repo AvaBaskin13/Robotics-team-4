@@ -41,6 +41,12 @@
 * Creates detailed computer-aided design (CAD) models of the robot
 * Aids in the assembly of electrical 
 
+#### Sensor Implementation
+* relied on heavily for autonomous period for following:
+##### Vision Sensor
+* used for recognizing rings and posts
+##### Distance Sensor
+* used to maintain distance between bots and field to avoid malfunctions
 
 ![Aerial view](https://github.com/AvaBaskin13/Robotics-team-4/blob/main/images/Robot%20Aerial.jpg?raw=true)
 ![Side View](https://github.com/AvaBaskin13/Robotics-team-4/blob/main/images/Robot%20Side.jpg?raw=true)
